@@ -3,4 +3,4 @@
   
   
   試作1  
-   ![Alt text](/CornellBoxExample/ExampleImage/Example1.png)  
+   ![Alt text](/CornellBoxExample/ExmpleImage/Exaple1.png)  
