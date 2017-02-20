@@ -1,5 +1,5 @@
 # CornelBoxExample
-コーネルボックスの試作  
+コーネルボックスの試作  
 RefrectionProbe
  
   
