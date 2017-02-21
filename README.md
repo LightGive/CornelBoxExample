@@ -7,3 +7,6 @@
    
   試作2  
    ![Alt text](/CornellBoxExample/ExmpleImage/Exaple2.png)  
+   
+  試作3  
+   ![Alt text](/CornellBoxExample/ExmpleImage/Exaple3.png)  
