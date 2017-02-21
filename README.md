@@ -1,7 +1,8 @@
 # CornelBoxExample
-コーネルボックスの試作  
+コーネルボックスの試作等  
+ライティングの勉強のメモ用  
  
-  
+ 
   試作1  
    ![Alt text](/CornellBoxExample/ExmpleImage/Exaple1.png)  
    
