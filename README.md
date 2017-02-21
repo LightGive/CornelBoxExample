@@ -10,3 +10,6 @@
    
   試作3  
    ![Alt text](/CornellBoxExample/ExmpleImage/Exaple3.png)  
+   
+  試作4  
+   ![Alt text](/CornellBoxExample/ExmpleImage/Exaple4.png)  
